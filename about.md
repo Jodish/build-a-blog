@@ -36,10 +36,6 @@ BEN 2
 
 stQS Lighting
 - https://www.youtube.com/channel/UCeO1_AGtd6togSDCFTuAw1A
-Details
-Location:	United States
-Links
-Twitter  Instagram
 
 ### Contact me
 
