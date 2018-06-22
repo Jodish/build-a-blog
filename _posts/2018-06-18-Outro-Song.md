@@ -3,6 +3,6 @@ layout: post
 title: Outro Song
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pgN-vvVVxMA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSVW0aJdn9o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-UMG (on behalf of Universal Music New Zealand Limited); Heaven 11, Kobalt Music Publishing, and 1 Music Rights Societies
+Listen to the official audio of "Scared Of Love" by Juice WRLD. Goodbye & Good Riddance available now:
